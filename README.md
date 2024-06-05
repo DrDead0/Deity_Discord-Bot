@@ -14,7 +14,6 @@
 - [Support](#support)
 - [Contact](#contact)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
