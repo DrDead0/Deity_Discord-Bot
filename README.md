@@ -1,6 +1,5 @@
-# Deity Discord Bot
-
-![Deity Discord Bot Logo]()
+# Deity Discord Bot 
+![Deity Discord Bot Logo](https://github.com/DrDead0/Deity_Discord-Bot/blob/main/Logo/logo-2.png)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -56,3 +55,106 @@ To set up the Deity Discord Bot on your server, follow these steps:
 To start the bot, run:
 ```bash
 python bot.py
+```
+Configuration
+-------------
+
+You can configure the bot using a `config.json` file located in the root directory. This file includes settings like welcome messages, rule texts, and more.
+
+Example `config.json`:
+```json
+{
+  "welcome_channel": "welcome",
+  "rules_channel": "rules",
+  "help_command": "!help",
+  "prefix": "!"
+}
+```
+# Commands
+
+Here is a list of available commands:
+
+- `!welcome`: Sends a welcome message to the designated channel.
+- `!rules`: Posts the server rules.
+- `!help`: Displays the help message with a list of available commands.
+- `!echo [message]`: Repeats the message back to the channel.
+- `!hello`: Greets the user.
+- `!support`: Provides support contact information.
+- `!contact`: Displays contact information for the server admin.
+- `!info`: Provides information about the server.
+- `!ping`: Checks the bot's response time to Discord.
+- `!clear [number]`: Deletes a specified number of messages from a channel.
+- `!kick [user] [reason]`: Kicks a user from the server.
+- `!ban [user] [reason]`: Bans a user from the server.
+- `!unban [user]`: Unbans a user from the server.
+
+## !welcome
+
+Sends a welcome message to new members.
+
+## !rules
+
+Posts the server rules in the specified channel.
+
+## !help
+
+Displays a help message with all available commands.
+
+## !echo [message]
+
+Repeats the message back to the channel.
+
+## !hello
+
+Greets the user with a friendly message.
+
+## !support
+
+Provides support contact information for users seeking help.
+
+## !contact
+
+Displays contact information for the server admin.
+
+## !info
+
+Provides information about the server, such as member count and server creation date.
+
+## !ping
+
+Checks the bot's response time to Discord.
+
+## !clear [number]
+
+Deletes the specified number of messages from the current channel. Requires appropriate permissions.
+
+## !kick [user] [reason]
+
+Kicks the specified user from the server. Requires appropriate permissions.
+
+## !ban [user] [reason]
+
+Bans the specified user from the server. Requires appropriate permissions.
+
+## !unban [user]
+
+Unbans the specified user from the server. Requires appropriate permissions.
+
+# Support
+
+If you encounter any issues or have questions, please create an issue on the [GitHub repository](https://github.com/DrDead0/Deity_Discord-Bot/issues) or reach out for support.
+
+# Contact
+
+Created by [Ashish Chaurasiya](https://github.com/DrDead0) - feel free to contact me!
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgements
+
+- Thanks to the Discord.py library for making Discord bot development easy.
+- Inspiration from other open-source Discord bots.
+- Special thanks to contributors and testers.
+
