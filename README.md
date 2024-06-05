@@ -34,18 +34,22 @@ Deity Discord Bot is designed to help manage basic server tasks such as setting 
 To set up the Deity Discord Bot on your server, follow these steps:
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/DrDead0/Deity_Discord-Bot.git
     ```
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+ 
     ```bash
     cd Deity_Discord-Bot
     ```
-3. Install the required dependencies:
+5. Install the required dependencies:
+ 
     ```bash
     pip install -r requirements.txt
     ```
-4. Set up environment variables for your Discord bot token:
+7. Set up environment variables for your Discord bot token:
+ 
     ```bash
     export DISCORD_TOKEN='your_discord_bot_token'
     ```
@@ -53,6 +57,7 @@ To set up the Deity Discord Bot on your server, follow these steps:
 ## Usage
 
 To start the bot, run:
+
 ```bash
 python bot.py
 ```
@@ -62,6 +67,7 @@ Configuration
 You can configure the bot using a `config.json` file located in the root directory. This file includes settings like welcome messages, rule texts, and more.
 
 Example `config.json`:
+
 ```json
 {
   "welcome_channel": "welcome",
