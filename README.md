@@ -150,11 +150,5 @@ Created by [Ashish Chaurasiya](https://github.com/DrDead0) - feel free to contac
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Acknowledgements
-
-- Thanks to the Discord.py library for making Discord bot development easy.
-- Inspiration from other open-source Discord bots.
-- Special thanks to contributors and testers.
+This project is licensed under the MIT License - [To See The LICENSE Click Here](https://github.com/DrDead0/Deity_Discord-Bot/blob/main/LICENSE)
 
