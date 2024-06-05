@@ -93,57 +93,7 @@ Here is a list of available commands:
 - `!ban [user] [reason]`: Bans a user from the server.
 - `!unban [user]`: Unbans a user from the server.
 
-## !welcome
 
-Sends a welcome message to new members.
-
-## !rules
-
-Posts the server rules in the specified channel.
-
-## !help
-
-Displays a help message with all available commands.
-
-## !echo [message]
-
-Repeats the message back to the channel.
-
-## !hello
-
-Greets the user with a friendly message.
-
-## !support
-
-Provides support contact information for users seeking help.
-
-## !contact
-
-Displays contact information for the server admin.
-
-## !info
-
-Provides information about the server, such as member count and server creation date.
-
-## !ping
-
-Checks the bot's response time to Discord.
-
-## !clear [number]
-
-Deletes the specified number of messages from the current channel. Requires appropriate permissions.
-
-## !kick [user] [reason]
-
-Kicks the specified user from the server. Requires appropriate permissions.
-
-## !ban [user] [reason]
-
-Bans the specified user from the server. Requires appropriate permissions.
-
-## !unban [user]
-
-Unbans the specified user from the server. Requires appropriate permissions.
 
 # Support
 
