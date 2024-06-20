@@ -101,7 +101,7 @@ If you encounter any issues or have questions, please create an issue on the [Gi
 
 # Contact
 
-Created by [Ashish Chaurasiya](https://github.com/DrDead0) - Feel Free To contact Me!
+Created by [Ashish Chaurasiya](https://github.com/DrDead0) & [Varchsava Khare](https://github.com/varchasvakhare2022) - Feel Free To contact Me!
 
 # License
 
